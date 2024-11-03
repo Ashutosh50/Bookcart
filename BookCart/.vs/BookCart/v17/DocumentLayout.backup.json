@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FullStack C#\\.Net Demos\\BookCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\constants\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\constants\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\models\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\models\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|f:\\fullstack c#\\.net demos\\bookcart\\bookcart\\data\\migrations\\20241022211447_added-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A1936D-9E19-415E-A67F-1013DC1CF0AD}|BookCart\\BookCart.csproj|solutionrelative:bookcart\\data\\migrations\\20241022211447_added-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Constants\\Role.cs",
+              "RelativeDocumentMoniker": "BookCart\\Constants\\Role.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Constants\\Role.cs",
+              "RelativeToolTip": "BookCart\\Constants\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:28:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BookCart\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BookCart\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:56:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241022211447_added-table.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Data\\Migrations\\20241022211447_added-table.cs",
+              "RelativeDocumentMoniker": "BookCart\\Data\\Migrations\\20241022211447_added-table.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Data\\Migrations\\20241022211447_added-table.cs",
+              "RelativeToolTip": "BookCart\\Data\\Migrations\\20241022211447_added-table.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:14:47.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookCart\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookCart\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:14:06.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "BookCart\\Models\\CartDetails.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\CartDetails.cs",
+              "RelativeToolTip": "BookCart\\Models\\CartDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:11:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopingCart.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\ShopingCart.cs",
+              "RelativeDocumentMoniker": "BookCart\\Models\\ShopingCart.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\ShopingCart.cs",
+              "RelativeToolTip": "BookCart\\Models\\ShopingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:10:41.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "BookCart\\Models\\OrderStatus.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\BookCart\\BookCart\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "BookCart\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:09:27.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
